@@ -33,7 +33,6 @@ Cada pedido é registrado no arquivo.txt dentro da pasta private, os pedidos sã
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [PHP](https://www.php.net) - Linguagem usada
 * [XAMpP](https://www.apachefriends.org/pt_br/download.html) - Servidor usado
